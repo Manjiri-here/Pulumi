@@ -1,3 +1,20 @@
+Important links -
+
+Pulumi login and dashboard: https://app.pulumi.com/Manjiri-here/pulumi-project/dev
+Pulumi docs: https://www.pulumi.com/docs/iac/get-started/aws/create-project/
+
+Dashboard after creating s3 bucker through Pulumi:
+
+<img width="1792" height="980" alt="Screenshot 2025-08-12 at 2 42 17 PM" src="https://github.com/user-attachments/assets/0a4fe0d6-3ca3-4a21-ad11-b821151db02e" />
+
+<img width="1792" height="981" alt="Screenshot 2025-08-12 at 2 43 30 PM" src="https://github.com/user-attachments/assets/6972f77d-5aae-4456-b23a-917f3548430e" />
+
+
+Reflected on AWS as below:
+
+<img width="1792" height="948" alt="Screenshot 2025-08-12 at 2 44 15 PM" src="https://github.com/user-attachments/assets/6cbeb753-85ba-4266-84ea-874c4f4c9b37" />
+
+
  # AWS Python S3 Bucket Pulumi Template
 
  A minimal Pulumi template for provisioning a single AWS S3 bucket using Python.
