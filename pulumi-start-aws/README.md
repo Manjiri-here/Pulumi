@@ -16,6 +16,14 @@ Reflected on AWS as below:
 
 <img width="1792" height="948" alt="Screenshot 2025-08-12 at 2 44 15 PM" src="https://github.com/user-attachments/assets/6cbeb753-85ba-4266-84ea-874c4f4c9b37" />
 
+Deleting AWS bucket we created:
+
+<img width="1362" height="614" alt="Screenshot 2025-08-12 at 4 56 03 PM" src="https://github.com/user-attachments/assets/95918582-5af4-4c9a-a921-0f325e6fe411" />
+
+Deleting the stack -
+
+<img width="1362" height="614" alt="Screenshot 2025-08-12 at 4 56 03 PM" src="https://github.com/user-attachments/assets/0fea01cc-2ce3-41a7-90a4-4b8e69e9e613" />
+
 
  # AWS Python S3 Bucket Pulumi Template
 
